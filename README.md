@@ -9,6 +9,7 @@ Procesamiento de imágenes con skimage en Python
 pip install scikit-image
 pip install matplotlib
 ~~~~
+
 ## Uso 
 
 ~~~~
@@ -18,5 +19,6 @@ python ski.py nombre_imagen.png
 
 ### Resultado
 
+<img src="resultado.png">
 
 
