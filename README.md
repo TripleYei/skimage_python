@@ -19,6 +19,6 @@ python ski.py nombre_imagen.png
 
 ### Resultado
 
-<img src="resultado.png">
+<img src="resultado.PNG">
 
 
